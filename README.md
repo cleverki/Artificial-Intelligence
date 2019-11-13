@@ -50,3 +50,10 @@ Limitation of HMM
 HMM may have memory loss in temporal sequence because of Markov property. 
 If training set is more complicated and dependent on more previous state, It cannot predict next state well.
 I think this is why we use machine learning. RNN or LSTM may solve the problem more correctly.
+
+
+License
+-----------
+I used PythonHMM which has BCD-licensed.
+https://github.com/jason2506/PythonHMM
+Copyright 2012 jason2506
