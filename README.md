@@ -26,7 +26,7 @@ Prediction is literally predicting future state using evidence.</br>
 In this step, HMM uses most likely path which is called Viterbi algorithm.</br>
 
 3. Smoothing</br>
-Now, we need more accruate state prediction </br>
+Now, we need more accurate state prediction </br>
 <pre>P(X(k)|e(1:t))   (for 0 <= k < t)</pre></br>
 Also, bayesian rule is applied in this step.</br>
 
